@@ -1,0 +1,6 @@
+{
+  "name": "Plásticos Sallum - Compra de Resíduos Plásticos",
+  "description": "Desde 1976, a Plásticos Sallum compra resíduos plásticos pós-industriais de empresas, avalia o material e organiza a retirada em São Paulo e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
