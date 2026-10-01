@@ -196,7 +196,7 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen bg-background text-foreground selection:bg-lime selection:text-lime-foreground overflow-x-hidden w-full max-w-full pb-20 lg:pb-0">
+    <div className="min-h-screen bg-background text-foreground selection:bg-lime selection:text-lime-foreground overflow-x-clip w-full max-w-full pb-20 lg:pb-0">
       {/* Barra de Contato Rápido no Topo com Promessa de Resposta */}
       <div className="bg-deep/95 text-deep-foreground/80 py-2.5 border-b border-deep text-xs">
         <div className="section-x flex flex-wrap items-center justify-between gap-2.5">
